@@ -26,5 +26,4 @@ A professional real-time currency converter built with Python and Streamlit. Thi
    ```bash
    streamlit run main.py
    
-👨‍💻 Author
-Built by Anagha Joshi
+👨‍💻 Built by Anagha Joshi
