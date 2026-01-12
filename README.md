@@ -3,7 +3,7 @@
 A professional real-time currency converter built with Python and Streamlit. This application connects to live financial APIs to provide accurate exchange rates for over 160 global currencies.
 
 ## 🚀 Live Demo
-[**Click here to view the App**] 
+[**Click here to view the App**] https://currencycalculator-26frkjvs3izm7q68qygfws.streamlit.app/
 
 ## ✨ Features
 *   **Real-Time Data:** Fetches live exchange rates via API.
