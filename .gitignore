@@ -1,0 +1,12 @@
+# Python ignore list
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+.venv/
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
