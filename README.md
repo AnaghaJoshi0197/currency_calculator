@@ -22,3 +22,9 @@ A professional real-time currency converter built with Python and Streamlit. Thi
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+3. Run the app:
+   ```bash
+   streamlit run main.py
+   
+👨‍💻 Author
+Built by Anagha Joshi
